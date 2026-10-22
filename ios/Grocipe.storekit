@@ -1,0 +1,151 @@
+{
+  "identifier" : "EC3E39D8",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.0",
+      "familyShareable" : false,
+      "internalID" : "6695756367",
+      "localizations" : [
+        {
+          "description" : "Trial subscription plan",
+          "displayName" : "Grocipe 7 Days Trial",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "FREE_PLAN234GF4U33U2U",
+      "referenceName" : "Grocipe Free Plan",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6670764564",
+    "_compatibilityTimeRate" : {
+      "3" : 6,
+      "5" : 1004
+    },
+    "_developerTeamID" : "QAPNQDR44K",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 748368973.67605197,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : {
+          "index" : 2,
+          "type" : "generic"
+        },
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ],
+    "_timeRate" : 1005
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21539408",
+      "localizations" : [
+
+      ],
+      "name" : "Grocipe Subscription",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6689523316",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Single month subscription plan",
+              "displayName" : "Grocipe Monthly (Most Popular)",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "Grocipe_1PudB9RsPs6WvkcRi080KMDa",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly ",
+          "subscriptionGroupID" : "21539408",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "29.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6689523515",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Smart meal planning with AI",
+              "displayName" : "Grocipe Semi-annual (Top Plan)",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "Grocipe_1PudB9RsPs6WvkcR49LGOE6Q",
+          "recurringSubscriptionPeriod" : "P6M",
+          "referenceName" : "Semi-annually",
+          "subscriptionGroupID" : "21539408",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

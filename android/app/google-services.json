@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "350555450693",
+    "project_id": "grocipe-62349",
+    "storage_bucket": "grocipe-62349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350555450693:android:303162ceb221c181c2a22c",
+        "android_client_info": {
+          "package_name": "com.us.grocipe.grocipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350555450693-9baa1727qc28i7i8g0sshh4a52aa331o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.us.grocipe.grocipe",
+            "certificate_hash": "378593acbd0046577249da1230ad19552c3f0dab"
+          }
+        },
+        {
+          "client_id": "350555450693-gjibqaqtqt6q1o061vaps46c0cs7poci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGcl5Ml5S2ehkuON05vX2NkCJWjFA5O10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350555450693-ci7dbgehhcfdm692q1p3kq980lfh1p46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350555450693-nnli8jfdu074detlkh4pgu0d5tcsi33f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.us.grocipe.grocipe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

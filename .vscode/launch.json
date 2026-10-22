@@ -1,0 +1,177 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_stripe",
+            "cwd": "flutter_stripe",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "example",
+            "cwd": "flutter_stripe/example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "example (profile mode)",
+            "cwd": "flutter_stripe/example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "example (release mode)",
+            "cwd": "flutter_stripe/example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "stripe",
+            "cwd": "flutter_stripe/packages/stripe",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "stripe (profile mode)",
+            "cwd": "flutter_stripe/packages/stripe",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "stripe (release mode)",
+            "cwd": "flutter_stripe/packages/stripe",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "stripe_android",
+            "cwd": "flutter_stripe/packages/stripe_android",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "stripe_android (profile mode)",
+            "cwd": "flutter_stripe/packages/stripe_android",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "stripe_android (release mode)",
+            "cwd": "flutter_stripe/packages/stripe_android",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "stripe_checkout",
+            "cwd": "flutter_stripe/packages/stripe_checkout",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "stripe_checkout (profile mode)",
+            "cwd": "flutter_stripe/packages/stripe_checkout",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "stripe_checkout (release mode)",
+            "cwd": "flutter_stripe/packages/stripe_checkout",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "stripe_ios",
+            "cwd": "flutter_stripe/packages/stripe_ios",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "stripe_ios (profile mode)",
+            "cwd": "flutter_stripe/packages/stripe_ios",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "stripe_ios (release mode)",
+            "cwd": "flutter_stripe/packages/stripe_ios",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "stripe_js",
+            "cwd": "flutter_stripe/packages/stripe_js",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "stripe_platform_interface",
+            "cwd": "flutter_stripe/packages/stripe_platform_interface",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "stripe_platform_interface (profile mode)",
+            "cwd": "flutter_stripe/packages/stripe_platform_interface",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "stripe_platform_interface (release mode)",
+            "cwd": "flutter_stripe/packages/stripe_platform_interface",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "stripe_web",
+            "cwd": "flutter_stripe/packages/stripe_web",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "stripe_web (profile mode)",
+            "cwd": "flutter_stripe/packages/stripe_web",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "stripe_web (release mode)",
+            "cwd": "flutter_stripe/packages/stripe_web",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

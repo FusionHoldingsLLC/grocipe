@@ -1,0 +1,246 @@
+{
+    "screen1":"onboarding",
+    "onboardingTitle1": "Bienvenido a Grocipe",
+    "onboardingTitle2": "Planificación de comidas fácil",
+    "onboardingTitle3": "Transforma la cocina",
+    "onboardingTitle4": "Explora recetas emocionantes",
+    "onboardingBody1": "Descubre una amplia gama de recetas en Grocipe, desde comidas diarias rápidas y sencillas hasta creaciones gourmet elaboradas, meticulosamente diseñadas para elevar tus habilidades culinarias e impresionar incluso a los paladares más exigentes, haciendo que cada comida sea una experiencia inolvidable.",
+    "onboardingBody2": "Deja que Grocipe revolucione tus rutinas de cocina, simplificando cada paso del proceso de cocina con características innovadoras diseñadas para agilizar la preparación de las comidas, reducir el estrés y devolver la alegría a tu experiencia culinaria, para que puedas disfrutar cada momento en la cocina.",
+    "onboardingBody3": "Planifica tus comidas sin esfuerzo y sin problemas con las herramientas de planificación de comidas intuitivas de Grocipe, permitiéndote organizar tu semana con facilidad y precisión, asegurando que cada comida sea deliciosa, equilibrada y adaptada a tus gustos y preferencias dietéticas.",
+    "onboardingBody4": "Planifica tus comidas sin esfuerzo y sin problemas con las herramientas de planificación de comidas intuitivas de Grocipe, permitiéndote organizar tu semana con facilidad y precisión, asegurando que cada comida sea deliciosa, equilibrada y adaptada a tus gustos y preferencias dietéticas.",
+    "getStared": "Empezar",
+    "next": "Siguiente",
+    "loginTitle": "¡Hola, bienvenido! 👋",
+    "email": "correo electrónico",
+    "password": "contraseña",
+    "forgot": "¿Olvidaste tu contraseña?",
+    "logIn": "Iniciar sesión",
+    "dHaveAccount": "¿No tienes cuenta?",
+    "signUp": "registrarse",
+    "preferences": "Preferencias",
+
+    "signUpTitle": "Registrarse",
+    "hintEmail": "Introduce la dirección de correo electrónico",
+    "hintPassword": "Debe tener 8 caracteres",
+    "hintConfirm": "Repetir contraseña",
+    "hintName": "Introduzca el nombre completo, apellido primero",
+    "addImage": "Añadir imagen",
+    "tAndC": "Términos y condiciones",
+    "privacyPolicy": "Política de privacidad",
+    "agree": "Estoy de acuerdo con",
+    "agree2": "y he leído",
+    "haveAccount": "¿Ya tienes una cuenta?",
+
+    "valid": "Ingrese un correo electrónico válido",
+    "name": "Nombre",
+    "cPassword": "Confirmar contraseña",
+    "hello": "hola",
+
+    "home": "Inicio",
+  "planner": "Planificador",
+  "chat": "Chat",
+  "grocery": "Tienda",
+  "profile": "Perfil",
+
+  "helloMessage": "¡Hola",
+  "searchPlaceholder": "Buscar",
+  "mealType": "Tipo de comida",
+  "seeAll": "Ver Todo",
+  "all": "Todo",
+  "breakfast": "Desayuno",
+  "lunch": "Almuerzo",
+  "dinner": "Cena",
+  "others": "Otros",
+  "minutes": "min",
+
+
+  "importUsingUrl": "Importar usando URL",
+  "addManually": "Agregar manualmente",
+
+  "addRecipeTitle": "Agregar una receta",
+  "enterUrl": "Introducir URL",
+  "enterUrlHint": "Introduce la URL",
+  "nextButton": "Siguiente",
+
+  "removeImageHint": "Puedes eliminar una imagen manteniendo presionado",
+  "recipeNameLabel": "Nombre de la receta",
+  "enterNameHint": "Introducir nombre",
+  "descriptionLabel": "Descripción",
+  "invalidImageError": "Imagen inválida",
+  "enterDescriptionHint": "Introducir descripción",
+
+  "ingredients": "Ingredientes",
+  "addAnIngredient": "Agregar un ingrediente",
+  "instructions": "Instrucciones",
+  "addAnInstruction": "Agregar una instrucción",
+  "nutritions": "Nutriciones",
+  "addANutrition": "Agregar una nutrición",
+  "numberOfServings": "Número de porciones",
+  "cuisine": "Cocina",
+  "enterCuisine": "Introducir cocina",
+  "category": "Categoría",
+  "prepTime": "Tiempo de preparación",
+  "duration": "Duración",
+  "cookTime": "Tiempo de cocción",
+   "skip": "Saltar",
+   "edit": "Editar",
+   "add_ingredient": "Agregar ingrediente",
+   "cancel": "Cancelar",
+   "add": "Añadir",
+   "ingredient_name": "Nombre del ingrediente",
+   "details": "Detalles",
+   "hint_ingredient_name": "Nombre del ingrediente",
+   "hint_details": "Detalles",
+   "instruction_name": "Nombre de la instrucción",
+   "hint_instruction_name": "Nombre de la instrucción",
+   
+
+
+   
+    "settingsTitle": "Configuraciones",
+    "accountSettingsTitle": "Configuraciones de la cuenta",
+    "changePasswordTitle": "Cambiar la contraseña",
+    "deleteAccountTitle": "Eliminar cuenta",
+    "logOutButton": "Cerrar sesión",
+    "@settingsTitle": {
+      "description": "Título para la pantalla de configuraciones"
+    },
+    "@accountSettingsTitle": {
+      "description": "Título para la opción de configuraciones de la cuenta"
+    },
+    "@changePasswordTitle": {
+      "description": "Título para la opción de cambiar la contraseña"
+    },
+    "@deleteAccountTitle": {
+      "description": "Título para la opción de eliminar la cuenta"
+    },
+    "@logOutButton": {
+      "description": "Texto para el botón de cerrar sesión"
+    },
+  
+    
+      "accountSettings": "Configuración de la cuenta",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+
+      "invalidImage": "Imagen inválida",
+      "saveUpdate": "Guardar actualización",
+      "@accountSettings": {
+        "description": "Título para la pantalla de configuración de la cuenta"
+      },
+      "@firstName": {
+        "description": "Etiqueta para el campo de entrada del nombre"
+      },
+      "@lastName": {
+        "description": "Etiqueta para el campo de entrada del apellido"
+      },
+      "@email": {
+        "description": "Etiqueta para el campo de entrada del correo electrónico"
+      },
+      "@hintEmail": {
+        "description": "Texto de sugerencia para el campo de entrada del correo electrónico"
+      },
+      "@password": {
+        "description": "Etiqueta para el campo de entrada de la contraseña"
+      },
+      "@addImage": {
+        "description": "Etiqueta para el botón de agregar imagen"
+      },
+      "@invalidImage": {
+        "description": "Mensaje de error para la imagen inválida"
+      },
+      "@saveUpdate": {
+        "description": "Etiqueta para el botón de guardar actualización"
+      },
+      
+        "changePassword": "Cambiar contraseña",
+        "setNewPassword": "Establezca la nueva contraseña para su cuenta para que pueda iniciar sesión y acceder a todas las funciones.",
+        "currentPassword": "Contraseña actual",
+        "createPassword": "Crea una contraseña",
+        "confirmPassword": "Confirmar contraseña",
+        "passwordMismatch": "Las contraseñas no coinciden",
+        "updatePassword": "Actualizar contraseña",
+        "@changePassword": {
+          "description": "Título para la pantalla de cambio de contraseña"
+        },
+        "@setNewPassword": {
+          "description": "Descripción para establecer una nueva contraseña"
+        },
+        "@currentPassword": {
+          "description": "Etiqueta para el campo de la contraseña actual"
+        },
+        "@createPassword": {
+          "description": "Etiqueta para el campo de la nueva contraseña"
+        },
+        "@confirmPassword": {
+          "description": "Etiqueta para el campo de confirmación de contraseña"
+        },
+        "@passwordMismatch": {
+          "description": "Mensaje de error para la falta de coincidencia de contraseñas"
+        },
+        "@updatePassword": {
+          "description": "Texto del botón para actualizar la contraseña"
+        },
+        
+          "deleteAccount": "Eliminar cuenta",
+          "@deleteAccount": {
+            "description": "Texto del botón para eliminar la cuenta"
+          },
+                
+          
+            "forgotPassword": "Olvidé mi contraseña",
+            "forgotPasswordDescription": "Ingrese su correo electrónico para el proceso de verificación, le enviaremos un código de 6 dígitos a su correo electrónico.",
+          
+            "continueText": "Continuar",
+            "@forgotPassword": {
+              "description": "Título para la pantalla de olvido de contraseña"
+            },
+            "@forgotPasswordDescription": {
+              "description": "Descripción para el proceso de olvido de contraseña"
+            },
+           
+            "@continueText": {
+              "description": "Texto del botón para continuar con el proceso de olvido de contraseña"
+            },
+            
+              "newPassword": "Nueva contraseña",
+              "setPasswordDescription": "Ingrese su nueva contraseña para configurar su cuenta.",
+
+              "@newPassword": {
+                "description": "Título para la pantalla de nueva contraseña"
+              },
+              "@setPasswordDescription": {
+                "description": "Descripción para configurar una nueva contraseña"
+              },
+              "groceryList": "Lista de compras",
+              "history": "Historial",
+              "delete": "Eliminar",
+              "share": "Compartir",
+              "archive": "Archivar",
+              "save": "Guardar",
+              "unknownItem": "Artículo desconocido",
+              "unknownBrand": "Marca desconocida",
+              "unknownCategory": "Categoría desconocida",
+              "searchGroceries": "Buscar comestibles",
+                "shopping": "Compras",
+  "completed": "Completado",
+  "back_button": "Volver",
+  "preferences_screen_title": "Preferencias",
+  "preferred_language": "Idioma Preferido",
+  "select_language": "Seleccionar Idioma Preferido",
+  "apply_changes": "Aplicar cambios",
+  "detail_screen_title": "Detalles de Recetas",
+  "ingredient_tab": "Ingredientes",
+  "instructions_tab": "Instrucciones",
+  "nutritions_tab": "Nutrición",
+  "minutes_label": " minutos",
+  "servings_label": " porciones",
+  "play_button_tooltip": "Ver Demo de Receta",
+  "servings_title": "Número de porciones",
+  "servings_hint": "por ejemplo 1, 2",
+  "cuisine_title": "Cocina",
+  "cuisine_hint": "Ingrese la cocina",
+  "add_button": "Añadir"
+
+
+}

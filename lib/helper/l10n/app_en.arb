@@ -1,0 +1,257 @@
+{
+   
+    "onboardingTitle1":"Welcome to Grocipe",
+    "onboardingTitle2":"Easy meal planning",
+    "onboardingTitle3":"Transform cooking",
+    "onboardingBody1":
+    "Discover a wide range of recipes on Grocipe, from quick and simple everyday meals to elaborate gourmet creations, meticulously crafted to elevate your culinary skills and impress even the most discerning palates, making every mealtime an unforgettable experience",
+    
+    "onboardingBody2":
+    "Let Grocipe revolutionize your kitchen routines, simplifying every step of the cooking process with innovative features designed to streamline meal preparation, reduce stress, and bring joy back to your cooking experience, so you can savor every moment spent in the kitchen.",
+    
+    "onboardingBody3":
+    "Effortlessly plan your meals hassle-free with Grocipe's intuitive meal planning tools, allowing you to organize your week with ease and precision, ensuring every meal is delicious, balanced, and tailored to your tastes and dietary preferences.",
+    "getStared":"Get Started",
+    "next": "Next",
+    "onboardingTitle4": "Explore Exciting Recipes",
+    "onboardingBody4":
+    "Effortlessly plan your meals hassle-free with Grocipe's intuitive meal planning tools, allowing you to organize your week with ease and precision, ensuring every meal is delicious, balanced, and tailored to your tastes and dietary preferences.",
+
+
+    "loginTitle": "Hi, Welcome!👋",
+    "email":"Email",
+    "password":"Password",
+    "forgot":"Forgot Password?",
+    "logIn":" Log in",
+    "dHaveAccount":"Don't have an account?",
+    "signUp":"sign up",
+
+    "signUpTitle": "Sign up",
+    "cPassword":"Confirm Password",
+    "hintEmail": "Enter email address",
+    "hintPassword":"Must be 8 characters",
+    "hintConfirm":"Repeat Password",
+    "hintName":"Enter full name, surname first",
+    "name":"Name",
+
+    "addImage":"Add Image",
+    "tAndC":"Terms and conditions",
+    "privacyPolicy": "Privacy Policy",
+    "agree": "I agree to",
+    "agree2":"and read",
+    "haveAccount":"Already have an account?",
+    "valid": "Enter Valid Email",
+    "hello":"hello",
+
+    "home": "Home",
+  "planner": "Planner",
+  "chat": "Chat",
+  "grocery": "Grocery",
+  "profile": "Profile",
+    
+  "helloMessage": "Hello, ",
+  "searchPlaceholder": "Search",
+  "mealType": "Meal type",
+  "seeAll": "See All",
+  "all": "All",
+  "breakfast": "Breakfast",
+  "lunch": "Lunch",
+  "dinner": "Dinner",
+  "others": "Others",
+  "minutes": "mins",
+
+
+  "importUsingUrl": "Import Using URL",
+  "addManually": "Add manually",
+
+
+  "addRecipeTitle": "Add a Recipe",
+  "enterUrl": "Enter URL",
+  "enterUrlHint": "Enter the URL",
+  "nextButton": "Next",
+
+  
+  "removeImageHint": "You can remove an image by long pressing it",
+  "recipeNameLabel": "Recipe Name",
+  "enterNameHint": "Enter Name",
+  "descriptionLabel": "Description",
+  "invalidImageError": "Invalid Image",
+  "enterDescriptionHint": "Enter Description",
+
+  "ingredients": "Ingredients",
+  "addAnIngredient": "Add an ingredient",
+  "instructions": "Instructions",
+  "addAnInstruction": "Add an Instruction",
+  "nutritions": "Nutritions",
+  "addANutrition": "Add a Nutrition",
+  "numberOfServings": "Number of servings",
+  "cuisine": "Cuisine",
+  "enterCuisine": "Enter Cuisine",
+  "category": "Category",
+  "prepTime": "Prep Time",
+  "duration": "Duration",
+  "cookTime": "Cook Time",
+  "preferences": "Preferences",
+
+  "skip": "Skip",
+    "settingsTitle": "Settings",
+    "accountSettingsTitle": "Account Settings",
+    "changePasswordTitle": "Change Password",
+    "deleteAccountTitle": "Delete Account",
+    "logOutButton": "Log Out",
+    "@settingsTitle": {
+      "description": "Title for the settings screen"
+    },
+    "@accountSettingsTitle": {
+      "description": "Title for the account settings option"
+    },
+    "@changePasswordTitle": {
+      "description": "Title for the change password option"
+    },
+    "@deleteAccountTitle": {
+      "description": "Title for the delete account option"
+    },
+    "@logOutButton": {
+      "description": "Text for the log out button"
+    },
+    
+    
+      "accountSettings": "Account Settings",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+
+      "invalidImage": "Invalid Image",
+      "saveUpdate": "Save Update",
+      "@accountSettings": {
+        "description": "Title for the account settings screen"
+      },
+      "@firstName": {
+        "description": "Label for the first name input field"
+      },
+      "@lastName": {
+        "description": "Label for the last name input field"
+      },
+      "@email": {
+        "description": "Label for the email input field"
+      },
+      "@hintEmail": {
+        "description": "Hint text for the email input field"
+      },
+      "@password": {
+        "description": "Label for the password input field"
+      },
+      "@addImage": {
+        "description": "Label for the add image button"
+      },
+      "@invalidImage": {
+        "description": "Error message for invalid image"
+      },
+      "@saveUpdate": {
+        "description": "Label for the save update button"
+      },
+      
+        "changePassword": "Change Password",
+        "setNewPassword": "Set the new password for your account so you can login and access all features.",
+        "currentPassword": "Current Password",
+        "createPassword": "Create a password",
+        "confirmPassword": "Confirm Password",
+        "passwordMismatch": "Password mismatch",
+        "updatePassword": "Update Password",
+        "@changePassword": {
+          "description": "Title for the change password screen"
+        },
+        "@setNewPassword": {
+          "description": "Description for setting a new password"
+        },
+        "@currentPassword": {
+          "description": "Label for the current password field"
+        },
+        "@createPassword": {
+          "description": "Label for the new password field"
+        },
+        "@confirmPassword": {
+          "description": "Label for the confirm password field"
+        },
+        "@passwordMismatch": {
+          "description": "Error message for password mismatch"
+        },
+        "@updatePassword": {
+          "description": "Button text for updating password"
+        },
+        
+          "deleteAccount": "Delete Account",
+          "@deleteAccount": {
+            "description": "Button text for deleting the account"
+          },
+          
+            "forgotPassword": "Forgot Password",
+            "forgotPasswordDescription": "Enter your email for the verification process, we will send a 6-digit code to your email.",
+           
+            "continueText": "Continue",
+            "@forgotPassword": {
+              "description": "Title for the forgot password screen"
+            },
+            "@forgotPasswordDescription": {
+              "description": "Description for the forgot password process"
+            },
+           
+            "@continueText": {
+              "description": "Button text for continuing the forgot password process"
+            },
+            
+              "newPassword": "New Password",
+              "setPasswordDescription": "Enter your new password to set up your account.",
+         
+              "@newPassword": {
+                "description": "Title for the new password screen"
+              },
+              "@setPasswordDescription": {
+                "description": "Description for setting a new password"
+              },
+
+              "groceryList": "Grocery List",
+              "history": "History",
+              "delete": "Delete",
+              "share": "Share",
+              "archive": "Archive",
+              "save": "Save",
+              "unknownItem": "Unknown Item",
+              "unknownBrand": "Unknown Brand",
+              "unknownCategory": "Unknown Category",
+              "searchGroceries": "Search groceries",
+              "shopping": "Shopping",
+              "completed": "Completed",
+              "back_button": "Back",
+              "preferences_screen_title": "Preferences",
+              "preferred_language": "Preferred Language",
+              "select_language": "Select Preferred Language",
+              "apply_changes": "Apply changes",
+              "detail_screen_title": "Detail Recipes",
+              "ingredient_tab": "Ingredient",
+              "instructions_tab": "Instructions",
+              "nutritions_tab": "Nutritions",
+              "minutes_label": " minutes",
+              "servings_label": " servings",
+              "play_button_tooltip": "View Recipe Demo",
+              "servings_title": "Number of servings",
+              "servings_hint": "i.e 1, 2",
+              "cuisine_title": "Cuisine",
+              "cuisine_hint": "Enter Cuisine",
+              "add_button": "Add",
+              "edit": "Edit",
+              "add_ingredient": "Add Ingredient",
+              "cancel": "Cancel",
+              "add": "Add",
+              "ingredient_name": "Ingredient name",
+              "details": "Details",
+              "hint_ingredient_name": "Ingredient name",
+              "hint_details": "Details",
+              "instruction_name": "Instruction name",
+              "hint_instruction_name": "Instruction name"
+
+
+              
+            
+
+            
+}

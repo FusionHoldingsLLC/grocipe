@@ -1,0 +1,254 @@
+{
+    "onboardingTitle1": "Bienvenue chez Grocipe",
+    "onboardingTitle2": "Planification de repas facile",
+    "onboardingTitle3": "Transformez la cuisine",
+    "onboardingTitle4": "Explorez des recettes excitantes",
+  
+    "onboardingBody1": "Découvrez une large gamme de recettes sur Grocipe, des repas quotidiens rapides et simples aux créations gastronomiques élaborées, minutieusement élaborées pour élever vos compétences culinaires et impressionner même les palais les plus exigeants, rendant chaque repas une expérience inoubliable.",
+    "onboardingBody2": "Laissez Grocipe révolutionner vos routines de cuisine, en simplifiant chaque étape du processus de cuisson avec des fonctionnalités innovantes conçues pour rationaliser la préparation des repas, réduire le stress, et ramener la joie dans votre expérience culinaire, afin que vous puissiez savourer chaque moment passé en cuisine.",
+    "onboardingBody3": "Planifiez vos repas sans effort et sans tracas avec les outils de planification de repas intuitifs de Grocipe, vous permettant d'organiser votre semaine avec facilité et précision, en garantissant que chaque repas soit délicieux, équilibré et adapté à vos goûts et préférences alimentaires.",
+    "onboardingBody4": "Planifiez vos repas sans effort et sans tracas avec les outils de planification de repas intuitifs de Grocipe, vous permettant d'organiser votre semaine avec facilité et précision, en garantissant que chaque repas soit délicieux, équilibré et adapté à vos goûts et préférences alimentaires.",
+    "getStared": "Commencer",
+    "next": "Suivant",
+    "loginTitle": "Bonjour, bienvenue ! 👋",
+    "email": "email",
+    "password": "mot de passe",
+    "forgot": "Mot de passe oublié ?",
+    "logIn": "Se connecter",
+    "dHaveAccount": "Vous n'avez pas de compte ?",
+    "signUp": "s'inscrire",
+    "preferences": "Préférences",
+
+  
+    "signUpTitle": "S'inscrire",
+    "hintEmail": "Entrez l'adresse email",
+    "hintPassword": "Doit contenir 8 caractères",
+    "name": "Nom",
+
+    "hintConfirm": "Répéter le mot de passe",
+    "hintName": "Entrez le nom complet, nom de famille en premier",
+    "addImage": "Ajouter une image",
+    "tAndC": "Conditions générales",
+    "privacyPolicy": "Politique de confidentialité",
+    "agree": "J'accepte les",
+    "agree2": "et j'ai lu",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "valid": "Entrez un email valide"
+,    "cPassword": "Confirmer le mot de passe",
+"hello": "bonjour",
+
+"home": "Accueil",
+"planner": "Planificateur",
+"chat": "Chat",
+"grocery": "Épicerie",
+"profile": "Profil",
+      
+"helloMessage": "Bonjour",
+  "searchPlaceholder": "Chercher",
+  "mealType": "Type de repas",
+  "seeAll": "Voir Tout",
+  "all": "Tout",
+  "breakfast": "Petit déjeuner",
+  "lunch": "Déjeuner",
+  "dinner": "Dîner",
+  "others": "Autres",
+  "minutes": "min",
+
+
+  "importUsingUrl": "Importer via URL",
+  "addManually": "Ajouter manuellement",
+
+  "addRecipeTitle": "Ajouter une recette",
+  "enterUrl": "Entrer l'URL",
+  "enterUrlHint": "Entrez l'URL",
+  "nextButton": "Suivant",
+
+
+
+  "removeImageHint": "Vous pouvez supprimer une image en la pressant longuement",
+  "recipeNameLabel": "Nom de la recette",
+  "enterNameHint": "Entrer le nom",
+  "descriptionLabel": "Description",
+  "invalidImageError": "Image invalide",
+  "enterDescriptionHint": "Entrer la description",
+
+  "ingredients": "Ingrédients",
+  "addAnIngredient": "Ajouter un ingrédient",
+  "instructions": "Instructions",
+  "addAnInstruction": "Ajouter une instruction",
+  "nutritions": "Nutritions",
+  "addANutrition": "Ajouter une nutrition",
+  "numberOfServings": "Nombre de portions",
+  "cuisine": "Cuisine",
+  "enterCuisine": "Entrer la cuisine",
+  "category": "Catégorie",
+  "prepTime": "Temps de préparation",
+  "duration": "Durée",
+  "cookTime": "Temps de cuisson",
+   "skip": "Sauter",
+   
+    "settingsTitle": "Paramètres",
+    "accountSettingsTitle": "Paramètres du compte",
+    "changePasswordTitle": "Changer le mot de passe",
+    "deleteAccountTitle": "Supprimer le compte",
+    "logOutButton": "Se déconnecter",
+    "@settingsTitle": {
+      "description": "Titre pour l'écran des paramètres"
+    },
+    "@accountSettingsTitle": {
+      "description": "Titre pour l'option des paramètres du compte"
+    },
+    "@changePasswordTitle": {
+      "description": "Titre pour l'option de changer le mot de passe"
+    },
+    "@deleteAccountTitle": {
+      "description": "Titre pour l'option de supprimer le compte"
+    },
+    "@logOutButton": {
+      "description": "Texte pour le bouton de déconnexion"
+    },
+    
+      "accountSettings": "Paramètres du compte",
+      "firstName": "Prénom",
+      "lastName": "Nom de famille",
+
+      "invalidImage": "Image invalide",
+      "saveUpdate": "Enregistrer la mise à jour",
+      "@accountSettings": {
+        "description": "Titre pour l'écran des paramètres du compte"
+      },
+      "@firstName": {
+        "description": "Étiquette pour le champ de saisie du prénom"
+      },
+      "@lastName": {
+        "description": "Étiquette pour le champ de saisie du nom de famille"
+      },
+      "@email": {
+        "description": "Étiquette pour le champ de saisie de l'email"
+      },
+      "@hintEmail": {
+        "description": "Texte de suggestion pour le champ de saisie de l'email"
+      },
+      "@password": {
+        "description": "Étiquette pour le champ de saisie du mot de passe"
+      },
+      "@addImage": {
+        "description": "Étiquette pour le bouton d'ajout d'image"
+      },
+      "@invalidImage": {
+        "description": "Message d'erreur pour image invalide"
+      },
+      "@saveUpdate": {
+        "description": "Étiquette pour le bouton d'enregistrement de la mise à jour"
+      },
+      
+        "changePassword": "Cambiar contraseña",
+        "setNewPassword": "Establezca la nueva contraseña para su cuenta para que pueda iniciar sesión y acceder a todas las funciones.",
+        "currentPassword": "Contraseña actual",
+        "createPassword": "Crea una contraseña",
+        "confirmPassword": "Confirmar contraseña",
+        "passwordMismatch": "Las contraseñas no coinciden",
+        "updatePassword": "Actualizar contraseña",
+        "@changePassword": {
+          "description": "Título para la pantalla de cambio de contraseña"
+        },
+        "@setNewPassword": {
+          "description": "Descripción para establecer una nueva contraseña"
+        },
+        "@currentPassword": {
+          "description": "Etiqueta para el campo de la contraseña actual"
+        },
+        "@createPassword": {
+          "description": "Etiqueta para el campo de la nueva contraseña"
+        },
+        "@confirmPassword": {
+          "description": "Etiqueta para el campo de confirmación de contraseña"
+        },
+        "@passwordMismatch": {
+          "description": "Mensaje de error para la falta de coincidencia de contraseñas"
+        },
+        "@updatePassword": {
+          "description": "Texto del botón para actualizar la contraseña"
+        },
+        
+          "deleteAccount": "Supprimer le compte",
+          "@deleteAccount": {
+            "description": "Texte du bouton pour supprimer le compte"
+          },
+          
+            "forgotPassword": "Mot de passe oublié",
+            "forgotPasswordDescription": "Entrez votre e-mail pour le processus de vérification, nous enverrons un code à 6 chiffres à votre e-mail.",
+    
+            "continueText": "Continuer",
+            "@forgotPassword": {
+              "description": "Titre pour l'écran de mot de passe oublié"
+            },
+            "@forgotPasswordDescription": {
+              "description": "Description du processus de mot de passe oublié"
+            },
+           
+            "@continueText": {
+              "description": "Texte du bouton pour continuer le processus de mot de passe oublié"
+            },
+            
+              "newPassword": "Nouveau mot de passe",
+              "setPasswordDescription": "Entrez votre nouveau mot de passe pour configurer votre compte.",
+
+              "@newPassword": {
+                "description": "Titre pour l'écran de nouveau mot de passe"
+              },
+              "@setPasswordDescription": {
+                "description": "Description pour définir un nouveau mot de passe"
+              },
+
+                      
+              "groceryList": "Liste d'épicerie",
+              "history": "Historique",
+              "delete": "Supprimer",
+              "share": "Partager",
+              "archive": "Archiver",
+              "save": "Enregistrer",
+              "unknownItem": "Article inconnu",
+              "unknownBrand": "Marque inconnue",
+              "unknownCategory": "Catégorie inconnue",
+              "searchGroceries": "Rechercher des articles",
+                "shopping": "Achats",
+  "completed": "Terminé",
+  "back_button": "Retour",
+  "preferences_screen_title": "Préférences",
+  "preferred_language": "Langue Préférée",
+  "select_language": "Sélectionner la langue préférée",
+  "apply_changes": "Appliquer les changements",
+  "app_title": "Mon Application",
+  "detail_screen_title": "Détail des Recettes",
+  "ingredient_tab": "Ingrédient",
+  "instructions_tab": "Instructions",
+  "nutritions_tab": "Nutritions",
+  "minutes_label": " minutes",
+  "servings_label": " portions",
+  "play_button_tooltip": "Voir la Démo de la Recette",
+  "servings_title": "Nombre de portions",
+  "servings_hint": "par exemple 1, 2",
+  "cuisine_title": "Cuisine",
+  "cuisine_hint": "Entrez la cuisine",
+  "add_button": "Ajouter",
+  "edit": "Modifier",
+  "add_ingredient": "Ajouter un ingrédient",
+  "cancel": "Annuler",
+  "add": "Ajouter",
+  "ingredient_name": "Nom de l'ingrédient",
+  "details": "Détails",
+  "hint_ingredient_name": "Nom de l'ingrédient",
+  "hint_details": "Détails",
+  "instruction_name": "Nom de l'instruction",
+  "hint_instruction_name": "Nom de l'instruction"
+
+
+
+          
+                         
+            
+
+      
+  }
+  

@@ -1,0 +1,738 @@
+{
+    "id": 0,
+    "week_start_date": "2024-06-14",
+    "week_end_date": "2024-06-14",
+    "days": {
+      "sunday": {
+        "breakfast": [
+          {
+            "recipe": [
+              {
+                "name": "Spaghetti Carbonara",
+                "diet": "Vegan",
+                "published_date": "2024-06-14T13:12:42.095Z",
+                "updated_date": "2024-06-14T13:12:42.095Z",
+                "author": "John Doe",
+                "cuisine": "Make sure to refregerate immidiately ...",
+                "note": "Italian",
+                "prep_time": 15,
+                "cook_time": 30,
+                "total_time": 45,
+                "servings": 4,
+                "category": "Dinner",
+                "ratings": 4.5,
+                "video_url": "http://example.com/video",
+                "url": "http://example.com/recipe",
+                "creation_method": "manual",
+                "is_public": false,
+                "health_ratings": 2.5,
+                "meal_types": [
+                  {
+                    "id": 0,
+                    "name": "string"
+                  }
+                ],
+                "ingredients": [
+                  {
+                    "id": 0,
+                    "ingredient_id": 0,
+                    "ingredient": {
+                      "name": "Onions",
+                      "grocery_id": 0,
+                      "created_mode": "manual"
+                    },
+                    "detail": "1, chopped"
+                  }
+                ],
+                "instructions": [
+                  {
+                    "instruction": "Heat oil...",
+                    "duration": 5,
+                    "order": 1,
+                    "id": 0
+                  }
+                ],
+                "nutritional_facts": [
+                  {
+                    "name": "Calories",
+                    "value": "419cal",
+                    "id": 0
+                  }
+                ],
+                "health_reports": [
+                  {
+                    "note": "Alergies: Anyone with lactose tolerant shouldnt ...",
+                    "id": 0
+                  }
+                ],
+                "recipe_images": [
+                  {
+                    "image_data": "string",
+                    "id": 0
+                  }
+                ],
+                "id": 0,
+                "user_id": 0,
+                "date_updated": "2024-06-14T13:12:42.096Z",
+                "original_recipe_id": 0
+              }
+            ],
+            "grocery": [
+              {
+                "id": 0,
+                "brand_name": "string",
+                "item_name": "string",
+                "unit": "string",
+                "quantity": "string",
+                "price": "string",
+                "category": "string",
+                "sub_category": "string",
+                "store": "string",
+                "city": "string",
+                "image_data": "string"
+              }
+            ],
+            "eating_out": false
+          }
+        ],
+        "lunch": [
+          {
+            "recipe": [
+              {
+                "name": "Spaghetti Carbonara",
+                "diet": "Vegan",
+                "published_date": "2024-06-14T13:12:42.096Z",
+                "updated_date": "2024-06-14T13:12:42.096Z",
+                "author": "John Doe",
+                "cuisine": "Make sure to refregerate immidiately ...",
+                "note": "Italian",
+                "prep_time": 15,
+                "cook_time": 30,
+                "total_time": 45,
+                "servings": 4,
+                "category": "Dinner",
+                "ratings": 4.5,
+                "video_url": "http://example.com/video",
+                "url": "http://example.com/recipe",
+                "creation_method": "manual",
+                "is_public": false,
+                "health_ratings": 2.5,
+                "meal_types": [
+                  {
+                    "id": 0,
+                    "name": "string"
+                  }
+                ],
+                "ingredients": [
+                  {
+                    "id": 0,
+                    "ingredient_id": 0,
+                    "ingredient": {
+                      "name": "Onions",
+                      "grocery_id": 0,
+                      "created_mode": "manual"
+                    },
+                    "detail": "1, chopped"
+                  }
+                ],
+                "instructions": [
+                  {
+                    "instruction": "Heat oil...",
+                    "duration": 5,
+                    "order": 1,
+                    "id": 0
+                  }
+                ],
+                "nutritional_facts": [
+                  {
+                    "name": "Calories",
+                    "value": "419cal",
+                    "id": 0
+                  }
+                ],
+                "health_reports": [
+                  {
+                    "note": "Alergies: Anyone with lactose tolerant shouldnt ...",
+                    "id": 0
+                  }
+                ],
+                "recipe_images": [
+                  {
+                    "image_data": "string",
+                    "id": 0
+                  }
+                ],
+                "id": 0,
+                "user_id": 0,
+                "date_updated": "2024-06-14T13:12:42.096Z",
+                "original_recipe_id": 0
+              }
+            ],
+            "grocery": [
+              {
+                "id": 0,
+                "brand_name": "string",
+                "item_name": "string",
+                "unit": "string",
+                "quantity": "string",
+                "price": "string",
+                "category": "string",
+                "sub_category": "string",
+                "store": "string",
+                "city": "string",
+                "image_data": "string"
+              }
+            ],
+            "eating_out": false
+          }
+        ],
+        "dinner": [
+          {
+            "recipe": [
+              {
+                "name": "Spaghetti Carbonara",
+                "diet": "Vegan",
+                "published_date": "2024-06-14T13:12:42.096Z",
+                "updated_date": "2024-06-14T13:12:42.096Z",
+                "author": "John Doe",
+                "cuisine": "Make sure to refregerate immidiately ...",
+                "note": "Italian",
+                "prep_time": 15,
+                "cook_time": 30,
+                "total_time": 45,
+                "servings": 4,
+                "category": "Dinner",
+                "ratings": 4.5,
+                "video_url": "http://example.com/video",
+                "url": "http://example.com/recipe",
+                "creation_method": "manual",
+                "is_public": false,
+                "health_ratings": 2.5,
+                "meal_types": [
+                  {
+                    "id": 0,
+                    "name": "string"
+                  }
+                ],
+                "ingredients": [
+                  {
+                    "id": 0,
+                    "ingredient_id": 0,
+                    "ingredient": {
+                      "name": "Onions",
+                      "grocery_id": 0,
+                      "created_mode": "manual"
+                    },
+                    "detail": "1, chopped"
+                  }
+                ],
+                "instructions": [
+                  {
+                    "instruction": "Heat oil...",
+                    "duration": 5,
+                    "order": 1,
+                    "id": 0
+                  }
+                ],
+                "nutritional_facts": [
+                  {
+                    "name": "Calories",
+                    "value": "419cal",
+                    "id": 0
+                  }
+                ],
+                "health_reports": [
+                  {
+                    "note": "Alergies: Anyone with lactose tolerant shouldnt ...",
+                    "id": 0
+                  }
+                ],
+                "recipe_images": [
+                  {
+                    "image_data": "string",
+                    "id": 0
+                  }
+                ],
+                "id": 0,
+                "user_id": 0,
+                "date_updated": "2024-06-14T13:12:42.096Z",
+                "original_recipe_id": 0
+              }
+            ],
+            "grocery": [
+              {
+                "id": 0,
+                "brand_name": "string",
+                "item_name": "string",
+                "unit": "string",
+                "quantity": "string",
+                "price": "string",
+                "category": "string",
+                "sub_category": "string",
+                "store": "string",
+                "city": "string",
+                "image_data": "string"
+              }
+            ],
+            "eating_out": false
+          }
+        ],
+        "snacks": [
+          {
+            "recipe": [
+              {
+                "name": "Spaghetti Carbonara",
+                "diet": "Vegan",
+                "published_date": "2024-06-14T13:12:42.096Z",
+                "updated_date": "2024-06-14T13:12:42.096Z",
+                "author": "John Doe",
+                "cuisine": "Make sure to refregerate immidiately ...",
+                "note": "Italian",
+                "prep_time": 15,
+                "cook_time": 30,
+                "total_time": 45,
+                "servings": 4,
+                "category": "Dinner",
+                "ratings": 4.5,
+                "video_url": "http://example.com/video",
+                "url": "http://example.com/recipe",
+                "creation_method": "manual",
+                "is_public": false,
+                "health_ratings": 2.5,
+                "meal_types": [
+                  {
+                    "id": 0,
+                    "name": "string"
+                  }
+                ],
+                "ingredients": [
+                  {
+                    "id": 0,
+                    "ingredient_id": 0,
+                    "ingredient": {
+                      "name": "Onions",
+                      "grocery_id": 0,
+                      "created_mode": "manual"
+                    },
+                    "detail": "1, chopped"
+                  }
+                ],
+                "instructions": [
+                  {
+                    "instruction": "Heat oil...",
+                    "duration": 5,
+                    "order": 1,
+                    "id": 0
+                  }
+                ],
+                "nutritional_facts": [
+                  {
+                    "name": "Calories",
+                    "value": "419cal",
+                    "id": 0
+                  }
+                ],
+                "health_reports": [
+                  {
+                    "note": "Alergies: Anyone with lactose tolerant shouldnt ...",
+                    "id": 0
+                  }
+                ],
+                "recipe_images": [
+                  {
+                    "image_data": "string",
+                    "id": 0
+                  }
+                ],
+                "id": 0,
+                "user_id": 0,
+                "date_updated": "2024-06-14T13:12:42.096Z",
+                "original_recipe_id": 0
+              }
+            ],
+            "grocery": [
+              {
+                "id": 0,
+                "brand_name": "string",
+                "item_name": "string",
+                "unit": "string",
+                "quantity": "string",
+                "price": "string",
+                "category": "string",
+                "sub_category": "string",
+                "store": "string",
+                "city": "string",
+                "image_data": "string"
+              }
+            ],
+            "eating_out": false
+          }
+        ]
+      },
+      "monday": {
+        "breakfast": [
+          {
+            "recipe": [
+              {
+                "name": "Spaghetti Carbonara",
+                "diet": "Vegan",
+                "published_date": "2024-06-14T13:12:42.096Z",
+                "updated_date": "2024-06-14T13:12:42.096Z",
+                "author": "John Doe",
+                "cuisine": "Make sure to refregerate immidiately ...",
+                "note": "Italian",
+                "prep_time": 15,
+                "cook_time": 30,
+                "total_time": 45,
+                "servings": 4,
+                "category": "Dinner",
+                "ratings": 4.5,
+                "video_url": "http://example.com/video",
+                "url": "http://example.com/recipe",
+                "creation_method": "manual",
+                "is_public": false,
+                "health_ratings": 2.5,
+                "meal_types": [
+                  {
+                    "id": 0,
+                    "name": "string"
+                  }
+                ],
+                "ingredients": [
+                  {
+                    "id": 0,
+                    "ingredient_id": 0,
+                    "ingredient": {
+                      "name": "Onions",
+                      "grocery_id": 0,
+                      "created_mode": "manual"
+                    },
+                    "detail": "1, chopped"
+                  }
+                ],
+                "instructions": [
+                  {
+                    "instruction": "Heat oil...",
+                    "duration": 5,
+                    "order": 1,
+                    "id": 0
+                  }
+                ],
+                "nutritional_facts": [
+                  {
+                    "name": "Calories",
+                    "value": "419cal",
+                    "id": 0
+                  }
+                ],
+                "health_reports": [
+                  {
+                    "note": "Alergies: Anyone with lactose tolerant shouldnt ...",
+                    "id": 0
+                  }
+                ],
+                "recipe_images": [
+                  {
+                    "image_data": "string",
+                    "id": 0
+                  }
+                ],
+                "id": 0,
+                "user_id": 0,
+                "date_updated": "2024-06-14T13:12:42.097Z",
+                "original_recipe_id": 0
+              }
+            ],
+            "grocery": [
+              {
+                "id": 0,
+                "brand_name": "string",
+                "item_name": "string",
+                "unit": "string",
+                "quantity": "string",
+                "price": "string",
+                "category": "string",
+                "sub_category": "string",
+                "store": "string",
+                "city": "string",
+                "image_data": "string"
+              }
+            ],
+            "eating_out": false
+          }
+        ],
+        "lunch": [
+          {
+            "recipe": [
+              {
+                "name": "Spaghetti Carbonara",
+                "diet": "Vegan",
+                "published_date": "2024-06-14T13:12:42.097Z",
+                "updated_date": "2024-06-14T13:12:42.097Z",
+                "author": "John Doe",
+                "cuisine": "Make sure to refregerate immidiately ...",
+                "note": "Italian",
+                "prep_time": 15,
+                "cook_time": 30,
+                "total_time": 45,
+                "servings": 4,
+                "category": "Dinner",
+                "ratings": 4.5,
+                "video_url": "http://example.com/video",
+                "url": "http://example.com/recipe",
+                "creation_method": "manual",
+                "is_public": false,
+                "health_ratings": 2.5,
+                "meal_types": [
+                  {
+                    "id": 0,
+                    "name": "string"
+                  }
+                ],
+                "ingredients": [
+                  {
+                    "id": 0,
+                    "ingredient_id": 0,
+                    "ingredient": {
+                      "name": "Onions",
+                      "grocery_id": 0,
+                      "created_mode": "manual"
+                    },
+                    "detail": "1, chopped"
+                  }
+                ],
+                "instructions": [
+                  {
+                    "instruction": "Heat oil...",
+                    "duration": 5,
+                    "order": 1,
+                    "id": 0
+                  }
+                ],
+                "nutritional_facts": [
+                  {
+                    "name": "Calories",
+                    "value": "419cal",
+                    "id": 0
+                  }
+                ],
+                "health_reports": [
+                  {
+                    "note": "Alergies: Anyone with lactose tolerant shouldnt ...",
+                    "id": 0
+                  }
+                ],
+                "recipe_images": [
+                  {
+                    "image_data": "string",
+                    "id": 0
+                  }
+                ],
+                "id": 0,
+                "user_id": 0,
+                "date_updated": "2024-06-14T13:12:42.097Z",
+                "original_recipe_id": 0
+              }
+            ],
+            "grocery": [
+              {
+                "id": 0,
+                "brand_name": "string",
+                "item_name": "string",
+                "unit": "string",
+                "quantity": "string",
+                "price": "string",
+                "category": "string",
+                "sub_category": "string",
+                "store": "string",
+                "city": "string",
+                "image_data": "string"
+              }
+            ],
+            "eating_out": false
+          }
+        ],
+        "dinner": [
+          {
+            "recipe": [
+              {
+                "name": "Spaghetti Carbonara",
+                "diet": "Vegan",
+                "published_date": "2024-06-14T13:12:42.097Z",
+                "updated_date": "2024-06-14T13:12:42.097Z",
+                "author": "John Doe",
+                "cuisine": "Make sure to refregerate immidiately ...",
+                "note": "Italian",
+                "prep_time": 15,
+                "cook_time": 30,
+                "total_time": 45,
+                "servings": 4,
+                "category": "Dinner",
+                "ratings": 4.5,
+                "video_url": "http://example.com/video",
+                "url": "http://example.com/recipe",
+                "creation_method": "manual",
+                "is_public": false,
+                "health_ratings": 2.5,
+                "meal_types": [
+                  {
+                    "id": 0,
+                    "name": "string"
+                  }
+                ],
+                "ingredients": [
+                  {
+                    "id": 0,
+                    "ingredient_id": 0,
+                    "ingredient": {
+                      "name": "Onions",
+                      "grocery_id": 0,
+                      "created_mode": "manual"
+                    },
+                    "detail": "1, chopped"
+                  }
+                ],
+                "instructions": [
+                  {
+                    "instruction": "Heat oil...",
+                    "duration": 5,
+                    "order": 1,
+                    "id": 0
+                  }
+                ],
+                "nutritional_facts": [
+                  {
+                    "name": "Calories",
+                    "value": "419cal",
+                    "id": 0
+                  }
+                ],
+                "health_reports": [
+                  {
+                    "note": "Alergies: Anyone with lactose tolerant shouldnt ...",
+                    "id": 0
+                  }
+                ],
+                "recipe_images": [
+                  {
+                    "image_data": "string",
+                    "id": 0
+                  }
+                ],
+                "id": 0,
+                "user_id": 0,
+                "date_updated": "2024-06-14T13:12:42.097Z",
+                "original_recipe_id": 0
+              }
+            ],
+            "grocery": [
+              {
+                "id": 0,
+                "brand_name": "string",
+                "item_name": "string",
+                "unit": "string",
+                "quantity": "string",
+                "price": "string",
+                "category": "string",
+                "sub_category": "string",
+                "store": "string",
+                "city": "string",
+                "image_data": "string"
+              }
+            ],
+            "eating_out": false
+          }
+        ],
+        "snacks": [
+          {
+            "recipe": [
+              {
+                "name": "Spaghetti Carbonara",
+                "diet": "Vegan",
+                "published_date": "2024-06-14T13:12:42.097Z",
+                "updated_date": "2024-06-14T13:12:42.097Z",
+                "author": "John Doe",
+                "cuisine": "Make sure to refregerate immidiately ...",
+                "note": "Italian",
+                "prep_time": 15,
+                "cook_time": 30,
+                "total_time": 45,
+                "servings": 4,
+                "category": "Dinner",
+                "ratings": 4.5,
+                "video_url": "http://example.com/video",
+                "url": "http://example.com/recipe",
+                "creation_method": "manual",
+                "is_public": false,
+                "health_ratings": 2.5,
+                "meal_types": [
+                  {
+                    "id": 0,
+                    "name": "string"
+                  }
+                ],
+                "ingredients": [
+                  {
+                    "id": 0,
+                    "ingredient_id": 0,
+                    "ingredient": {
+                      "name": "Onions",
+                      "grocery_id": 0,
+                      "created_mode": "manual"
+                    },
+                    "detail": "1, chopped"
+                  }
+                ],
+                "instructions": [
+                  {
+                    "instruction": "Heat oil...",
+                    "duration": 5,
+                    "order": 1,
+                    "id": 0
+                  }
+                ],
+                "nutritional_facts": [
+                  {
+                    "name": "Calories",
+                    "value": "419cal",
+                    "id": 0
+                  }
+                ],
+                "health_reports": [
+                  {
+                    "note": "Alergies: Anyone with lactose tolerant shouldnt ...",
+                    "id": 0
+                  }
+                ],
+                "recipe_images": [
+                  {
+                    "image_data": "string",
+                    "id": 0
+                  }
+                ],
+                "id": 0,
+                "user_id": 0,
+                "date_updated": "2024-06-14T13:12:42.097Z",
+                "original_recipe_id": 0
+              }
+            ],
+            "grocery": [
+              {
+                "id": 0,
+                "brand_name": "string",
+                "item_name": "string",
+                "unit": "string",
+                "quantity": "string",
+                "price": "string",
+                "category": "string",
+                "sub_category": "string",
+                "store": "string",
+                "city": "string",
+                "image_data": "string"
+              }
+            ],
+            "eating_out": false
+          }
+        ]
+    }}
+  }
